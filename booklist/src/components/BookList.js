@@ -22,7 +22,7 @@ const BookList = () => {
                     </ul>
                 </div>
             ) : (
-                <div className="empty">No books to read buddy, go fucking add some books</div>
+                <div className="empty">No books to read buddy,add some books</div>
             )}
 
             {/* <div className="filter-book">
